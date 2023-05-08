@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904303482079",
+    "firebase_url": "https://shahama-f7a55.firebaseio.com",
+    "project_id": "shahama-f7a55",
+    "storage_bucket": "shahama-f7a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904303482079:android:6bc114b14a94162477056a",
+        "android_client_info": {
+          "package_name": "com.shahama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904303482079-ln89rrm88gt01p9262aors8nndcj4mav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shahama",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "904303482079-ee548giha81euksm7f8qduakimfvdr2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNxOJGLUk8rFp5O732Jn1yQaZJHL71ZAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904303482079-ee548giha81euksm7f8qduakimfvdr2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
